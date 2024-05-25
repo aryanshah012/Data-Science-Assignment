@@ -1,0 +1,980 @@
+Name;Age;Food Supply (Days);Water per Day (Liters);First Aid Kits;Antibiotics;Painkillers;Weapons Available;Defensive Structures;Training Level;Radios Available;Access to Reliable Information;Support Groups Available;Entertainment Available
+Michael;18;13;4.4;0;13;13;83;7;3;2;No ;No ;Books
+Sophia ;18;13;1.8;3;15;22;65;3;0;20;No ;No ;Books
+John   ;18;4;1.3;4;5;30;88;10;3;3;No ;Yes;Books
+James  ;18;29;4.2;2;9;14;60;3;5;5;No ;No ;Games
+James  ;18;7;3.5;6;17;16;53;5;0;17;No ;No ;Books
+James  ;18;9;4;2;7;47;95;3;2;5;Yes;No ;Books
+John   ;18;24;3;5;4;5;74;9;2;8;No ;No ;Games
+Michael;18;28;1.6;4;12;23;49;2;2;12;Yes;No ;Books
+Emma   ;18;1;3.4;9;15;6;43;10;4;8;No ;Yes;Games
+Michael;18;22;3.7;5;10;27;12;8;0;18;Yes;No ;Games
+Olivia ;18;2;4.9;9;8;22;77;8;0;1;Yes;Yes;Games
+James  ;18;28;3.7;9;14;29;89;10;4;0;No ;Yes;Books
+Michael;18;3;3.5;6;9;41;37;9;2;12;Yes;Yes;Games
+Sophia ;18;5;2.8;10;8;21;46;5;4;18;No ;Yes;Books
+William;18;28;4.7;0;14;10;39;9;4;1;No ;Yes;Books
+James  ;18;26;2.9;8;17;22;69;9;5;13;No ;No ;Games
+William;18;6;2;10;14;16;77;4;0;12;Yes;Yes;Books
+James  ;18;11;3.7;7;16;4;74;4;3;6;No ;Yes;Books
+Olivia ;18;27;2;5;19;42;48;1;4;14;Yes;No ;Books
+Sophia ;18;9;1.9;5;12;17;78;7;2;14;Yes;Yes;Games
+William;18;19;3.5;10;11;39;75;4;3;20;No ;No ;Games
+Jane   ;18;4;3.5;0;14;15;49;10;0;18;Yes;Yes;Books
+James  ;18;2;2.7;2;18;50;79;6;4;19;No ;Yes;Games
+Emma   ;18;30;2.2;3;1;13;7;5;1;10;No ;No ;Games
+James  ;18;30;4.8;9;9;23;55;3;2;1;Yes;No ;Books
+William;19;11;3.4;2;10;44;66;5;1;19;No ;No ;Books
+William;19;5;4.2;1;14;18;56;6;0;15;Yes;No ;Games
+Olivia ;19;26;4.9;10;3;47;62;10;2;2;No ;Yes;Games
+John   ;19;5;1.5;5;6;50;23;10;0;11;No ;No ;Games
+William;19;2;2.9;6;8;8;3;4;3;16;No ;No ;Books
+John   ;19;10;2.6;10;2;2;79;5;4;7;Yes;No ;Games
+James  ;19;23;2.9;2;5;40;0;10;1;13;Yes;Yes;Games
+Olivia ;19;2;4.2;9;18;22;69;3;4;6;Yes;No ;Games
+Michael;19;5;3.1;1;7;3;93;9;5;14;Yes;No ;Books
+William;19;12;4.4;8;20;35;98;6;2;19;Yes;Yes;Games
+John   ;19;27;3.6;2;1;15;23;0;0;0;No ;No ;Books
+William;19;23;2.5;5;13;42;61;4;5;2;No ;Yes;Books
+Michael;19;30;3.1;8;15;37;35;4;4;12;Yes;Yes;Games
+Sophia ;19;2;2.2;2;18;24;19;2;0;18;Yes;No ;Games
+Michael;19;12;4.7;5;5;13;55;9;4;0;No ;No ;Games
+William;19;5;4.7;1;14;23;82;9;0;20;Yes;No ;Books
+James  ;19;22;3.7;3;16;9;23;5;3;15;No ;Yes;Books
+Emma   ;19;9;1.5;2;7;37;10;9;1;0;Yes;No ;Books
+Michael;20;2;4.4;0;15;31;40;4;2;3;No ;Yes;Games
+James  ;20;1;3.6;9;15;10;96;4;4;4;No ;No ;Books
+James  ;20;2;1.1;5;19;37;13;6;3;19;No ;No ;Games
+William;20;21;1.2;4;6;47;73;9;4;5;No ;No ;Games
+Jane   ;20;21;2.7;4;11;6;15;3;4;2;No ;No ;Books
+William;20;1;3.3;1;4;10;96;1;5;19;Yes;Yes;Games
+John   ;20;4;1.5;4;18;10;55;1;1;8;No ;No ;Books
+John   ;20;24;4.3;10;4;35;32;4;0;9;No ;Yes;Games
+Emma   ;20;29;1.3;2;18;24;81;10;0;14;No ;Yes;Books
+William;20;23;1.7;8;8;40;4;6;4;4;No ;Yes;Games
+James  ;20;5;3.8;1;1;9;23;4;1;20;No ;No ;Books
+Olivia ;20;15;4.1;9;6;13;58;9;1;6;Yes;No ;Books
+Michael;20;19;3.3;0;7;26;34;10;5;16;Yes;No ;Books
+Jane   ;20;22;2.4;10;16;36;28;3;2;1;No ;No ;Books
+James  ;20;3;3.7;6;10;35;62;7;2;15;No ;Yes;Books
+Emma   ;20;22;3.4;0;2;44;34;0;0;16;No ;No ;Games
+Sophia ;20;23;1.7;7;20;1;37;8;2;8;Yes;No ;Games
+James  ;20;12;4;4;17;50;52;5;3;19;No ;No ;Books
+Sophia ;21;11;4.5;5;1;35;79;6;2;15;Yes;Yes;Games
+William;21;1;4;10;7;39;84;4;0;19;No ;Yes;Games
+Jane   ;21;20;2.7;1;9;19;89;6;4;3;Yes;No ;Games
+John   ;21;13;3.1;9;4;30;15;6;3;3;No ;Yes;Games
+James  ;21;29;3.6;9;19;19;30;0;1;5;No ;Yes;Books
+Michael;21;10;4.5;0;15;1;80;2;1;11;No ;No ;Games
+James  ;21;4;1.7;7;17;3;35;8;0;4;No ;No ;Games
+Sophia ;21;8;3.8;4;20;14;81;1;1;17;Yes;No ;Games
+Jane   ;21;30;2.7;3;12;36;79;0;2;15;Yes;Yes;Books
+John   ;21;24;3;4;16;28;62;8;5;11;No ;Yes;Books
+Michael;21;20;2.9;7;7;23;26;3;5;13;No ;Yes;Games
+Michael;21;10;1.8;4;13;48;52;5;2;3;No ;Yes;Games
+William;21;0;3.2;5;3;15;25;1;2;2;No ;Yes;Books
+Jane   ;21;14;3.3;9;16;39;99;7;4;20;Yes;Yes;Games
+Sophia ;21;4;3.9;10;2;4;15;9;1;9;No ;Yes;Books
+James  ;21;26;3.5;1;5;21;51;6;5;20;Yes;Yes;Games
+Sophia ;21;2;1.5;8;2;3;82;9;0;9;No ;Yes;Games
+William;21;25;3.2;8;12;2;31;6;0;15;No ;Yes;Games
+John   ;21;28;1;6;13;16;0;5;2;5;No ;No ;Books
+William;21;1;1.9;4;1;29;55;2;1;18;No ;No ;Books
+Emma   ;21;27;2.9;5;17;29;66;10;4;16;Yes;No ;Books
+Emma   ;21;1;2;10;19;25;11;2;2;1;No ;No ;Games
+Sophia ;21;3;3.6;10;5;32;31;3;2;18;Yes;Yes;Games
+William;21;7;4;2;12;50;56;4;5;9;No ;Yes;Books
+James  ;21;21;1.3;7;17;19;43;4;4;6;No ;Yes;Books
+John   ;21;4;4.3;1;19;41;65;3;4;3;Yes;Yes;Games
+John   ;21;23;1.5;7;13;11;55;6;3;8;No ;Yes;Books
+Emma   ;21;5;1.4;2;17;17;23;7;2;16;Yes;No ;Games
+William;21;1;4.6;0;10;40;47;7;5;1;Yes;Yes;Books
+Emma   ;21;18;4.6;0;14;7;91;7;2;11;Yes;No ;Books
+John   ;21;1;1.7;5;3;36;79;10;0;3;No ;Yes;Games
+Olivia ;21;10;3.2;10;1;3;10;9;0;1;No ;Yes;Books
+Jane   ;22;26;2.5;3;3;1;16;1;1;18;Yes;No ;Games
+Michael;22;15;2;3;2;14;88;2;0;2;No ;Yes;Books
+Olivia ;22;19;2.6;3;18;42;82;3;1;1;Yes;Yes;Books
+Michael;22;4;1.4;8;5;48;54;10;3;0;Yes;No ;Books
+Sophia ;22;3;3.6;10;5;6;12;4;0;18;No ;No ;Books
+Michael;22;18;2.8;1;13;11;55;10;2;2;Yes;No ;Books
+John   ;22;17;2.3;10;19;43;43;10;3;8;Yes;No ;Games
+James  ;22;4;4.4;5;0;41;79;5;1;11;No ;No ;Books
+Michael;22;20;2.8;10;11;44;24;5;1;2;No ;Yes;Games
+Olivia ;22;7;2.9;4;11;35;36;7;2;4;Yes;Yes;Games
+John   ;22;7;3.9;0;2;38;83;5;5;13;Yes;No ;Books
+Jane   ;22;0;2.8;7;20;37;58;4;0;20;Yes;No ;Games
+Olivia ;22;1;2.2;5;6;26;36;9;5;3;No ;Yes;Books
+Sophia ;22;19;2.3;8;1;8;69;6;3;14;Yes;Yes;Books
+Jane   ;22;27;3.9;10;0;15;33;5;0;1;No ;No ;Books
+William;22;29;4.7;1;11;40;37;10;5;15;Yes;Yes;Games
+Sophia ;22;29;2;5;20;25;50;4;4;9;No ;No ;Games
+Sophia ;22;0;2.7;9;4;19;95;4;5;17;No ;Yes;Games
+Emma   ;22;30;3.2;0;10;38;25;1;0;17;No ;Yes;Games
+John   ;22;27;4.2;8;19;45;4;8;0;12;No ;No ;Games
+Jane   ;22;27;1.1;6;14;25;80;9;4;14;No ;No ;Games
+Emma   ;22;5;3.8;5;7;42;36;7;2;17;No ;No ;Games
+Jane   ;22;30;3.7;8;7;18;12;5;0;15;No ;No ;Books
+William;22;28;1.1;8;15;24;66;9;0;9;Yes;Yes;Games
+Jane   ;22;0;2.6;5;4;40;38;3;4;20;Yes;No ;Books
+Jane   ;22;13;3;6;1;5;21;10;1;6;No ;Yes;Books
+John   ;23;11;1.3;4;7;11;68;9;0;12;No ;Yes;Games
+James  ;23;22;4.9;9;7;33;42;9;5;2;Yes;Yes;Games
+Jane   ;23;19;4.4;4;12;33;15;6;5;10;Yes;Yes;Games
+James  ;23;9;4.7;9;20;9;3;9;0;8;Yes;No ;Books
+John   ;23;13;4.2;3;12;2;80;2;0;2;Yes;No ;Games
+Michael;23;30;4.7;0;4;33;55;10;3;19;No ;No ;Games
+William;23;11;1.6;4;6;9;77;2;0;10;Yes;No ;Books
+Michael;23;9;3;6;5;12;70;1;1;3;Yes;No ;Games
+Sophia ;23;0;2.5;4;6;7;61;9;4;19;Yes;Yes;Books
+Emma   ;23;5;2.2;7;15;12;29;0;5;8;Yes;Yes;Games
+John   ;23;16;2.9;4;19;30;83;8;3;20;Yes;Yes;Games
+Sophia ;23;10;2.8;4;6;50;54;3;1;6;No ;Yes;Books
+John   ;23;23;2.8;5;20;32;56;4;2;9;Yes;No ;Games
+Emma   ;23;22;1.7;6;13;27;34;7;5;14;No ;Yes;Games
+James  ;23;30;4.3;9;5;11;98;10;2;4;Yes;Yes;Books
+William;23;20;1.2;3;9;28;70;6;2;4;No ;No ;Books
+John   ;23;4;4.8;3;11;23;45;4;5;0;Yes;Yes;Books
+Jane   ;23;14;3;6;11;32;64;6;5;19;Yes;No ;Games
+William;23;26;1.8;0;9;41;19;6;5;20;Yes;Yes;Books
+John   ;23;24;2.5;2;0;28;23;5;3;0;No ;Yes;Games
+William;23;20;2;4;9;12;36;2;0;19;No ;No ;Books
+William;23;13;4.2;5;3;0;36;1;3;20;Yes;Yes;Books
+Emma   ;23;14;1.3;0;1;39;58;4;0;10;Yes;No ;Games
+Sophia ;23;23;2.9;7;0;4;89;9;0;20;Yes;Yes;Games
+Jane   ;23;2;1.7;3;19;35;39;10;0;2;Yes;Yes;Books
+Sophia ;23;20;4.3;3;5;1;31;10;1;20;Yes;No ;Books
+James  ;23;5;5;8;10;36;57;5;1;17;Yes;No ;Books
+Michael;23;15;1.6;3;5;34;23;0;1;3;Yes;Yes;Books
+Olivia ;24;16;1.2;8;1;6;59;8;3;3;Yes;No ;Books
+Olivia ;24;23;1.1;8;5;0;59;1;5;11;No ;No ;Games
+James  ;24;5;1.3;3;9;43;2;1;5;9;No ;Yes;Games
+James  ;24;9;4.2;6;8;22;2;8;1;5;Yes;Yes;Games
+Jane   ;24;6;4.8;9;10;46;14;4;3;0;Yes;No ;Books
+John   ;24;1;2.4;2;0;8;32;10;0;3;No ;No ;Games
+John   ;24;12;2.4;9;20;8;63;7;3;5;Yes;No ;Games
+James  ;24;9;3.7;6;18;17;0;3;5;14;Yes;Yes;Games
+William;24;3;4.9;5;5;45;20;7;2;0;Yes;No ;Games
+James  ;24;5;4.9;5;11;34;6;4;2;7;No ;Yes;Games
+Emma   ;24;9;2;2;0;15;84;0;0;0;Yes;Yes;Books
+Emma   ;24;20;4.2;8;11;35;93;9;1;17;Yes;Yes;Books
+Michael;24;8;4;9;10;27;23;9;5;2;No ;Yes;Books
+Sophia ;24;4;4.5;10;10;31;70;4;2;3;No ;Yes;Books
+Michael;24;18;1.8;5;16;41;0;8;5;4;No ;Yes;Books
+Emma   ;24;14;1.1;4;2;11;50;5;4;2;Yes;Yes;Books
+James  ;24;28;5;10;19;17;96;5;4;4;No ;Yes;Books
+Emma   ;24;23;3.8;7;10;35;85;6;4;8;No ;Yes;Games
+Michael;24;26;4.7;6;11;12;83;9;4;9;Yes;No ;Games
+Jane   ;24;10;2.8;2;17;23;83;2;4;5;Yes;Yes;Games
+Michael;24;21;3;3;12;13;50;0;0;18;Yes;No ;Games
+Olivia ;24;27;4.4;7;13;24;30;2;5;5;Yes;Yes;Games
+Sophia ;24;28;4.1;0;3;13;89;0;5;20;No ;Yes;Books
+Michael;24;25;2.5;8;3;29;16;2;4;11;Yes;No ;Books
+Olivia ;24;10;2.2;9;4;19;39;9;0;16;Yes;Yes;Books
+Sophia ;25;3;4.7;9;16;16;50;1;3;11;Yes;Yes;Games
+Emma   ;25;5;1.3;4;8;2;34;1;4;15;No ;Yes;Games
+William;25;7;2.1;2;9;16;93;4;2;11;Yes;No ;Books
+William;25;6;3.9;5;4;12;100;9;5;2;No ;No ;Games
+William;25;6;4.9;3;1;24;0;3;3;2;No ;Yes;Games
+Sophia ;25;20;1.3;7;11;10;50;2;2;15;Yes;No ;Books
+Michael;25;27;1.1;9;20;44;9;2;3;15;No ;No ;Games
+Olivia ;25;27;2.1;1;7;40;25;1;4;12;Yes;No ;Games
+Jane   ;25;24;1.5;9;15;11;64;4;3;18;No ;Yes;Games
+Emma   ;25;10;2.4;0;18;45;54;1;0;9;No ;Yes;Books
+John   ;25;13;3.1;7;15;39;1;2;0;0;No ;No ;Books
+William;25;29;4.5;10;9;3;77;5;5;6;Yes;No ;Games
+Michael;25;17;3.7;3;10;20;24;9;2;10;Yes;No ;Books
+William;25;7;1.9;10;1;9;31;4;2;14;No ;No ;Books
+Michael;25;23;2.7;1;7;50;89;7;3;1;No ;Yes;Books
+John   ;25;0;3.2;4;19;35;82;6;0;16;No ;No ;Books
+Jane   ;25;0;4.4;6;9;16;26;2;2;19;Yes;No ;Games
+John   ;25;14;1.3;8;15;42;72;9;2;4;No ;Yes;Games
+Jane   ;25;15;2;7;17;34;70;2;3;16;No ;Yes;Books
+James  ;25;20;3.7;3;4;19;51;0;1;1;Yes;Yes;Games
+Jane   ;26;1;4.5;0;7;9;36;0;3;16;Yes;Yes;Books
+John   ;26;25;3.9;1;16;6;22;6;2;12;No ;No ;Books
+William;26;2;2.4;5;12;5;60;3;2;10;No ;Yes;Books
+Emma   ;26;7;4.6;7;9;8;46;4;5;6;Yes;No ;Games
+Olivia ;26;1;4.2;6;6;14;28;9;2;14;No ;No ;Books
+Michael;26;24;4.6;5;1;7;25;5;3;9;No ;Yes;Books
+Olivia ;26;16;3.5;0;15;40;20;9;4;6;No ;Yes;Games
+John   ;26;4;2.9;2;1;1;84;7;3;8;No ;No ;Books
+Olivia ;26;27;1.6;10;16;3;7;3;0;7;Yes;Yes;Games
+William;26;14;3.7;3;17;26;5;1;0;14;No ;Yes;Games
+James  ;26;26;2.1;7;3;1;51;6;1;3;No ;No ;Books
+Michael;26;4;3.2;4;13;15;92;7;5;8;No ;No ;Games
+John   ;26;30;4.6;0;1;36;64;7;1;5;No ;Yes;Games
+James  ;26;30;4.5;5;16;4;42;4;0;14;Yes;No ;Books
+Emma   ;26;1;2.1;2;16;6;39;2;2;2;No ;Yes;Games
+James  ;26;0;2.6;4;15;34;71;9;0;14;Yes;Yes;Books
+Sophia ;26;18;3.6;0;5;46;91;5;3;11;No ;No ;Games
+Emma   ;26;14;4.5;3;9;10;1;1;2;5;Yes;Yes;Books
+Emma   ;26;30;3.8;9;1;23;5;5;2;18;Yes;No ;Games
+Sophia ;26;22;2;10;2;5;77;9;1;11;Yes;No ;Games
+James  ;26;8;2.4;3;6;48;86;1;1;18;No ;No ;Books
+John   ;26;2;1.3;6;10;49;72;7;4;1;Yes;Yes;Games
+Olivia ;26;7;4.7;0;7;19;52;9;5;17;No ;No ;Books
+Michael;27;3;4.8;4;15;31;89;0;2;14;Yes;Yes;Books
+William;27;25;4.2;0;8;9;6;3;3;15;Yes;Yes;Books
+Jane   ;27;15;4.6;8;11;10;8;0;3;1;Yes;Yes;Games
+William;27;23;3.8;1;17;47;20;6;3;13;Yes;Yes;Games
+Jane   ;27;4;4.1;1;1;19;1;5;5;14;No ;No ;Games
+Olivia ;27;21;4.4;0;19;22;100;0;4;14;Yes;Yes;Games
+William;27;24;1.9;3;3;21;31;2;2;18;No ;No ;Books
+Michael;27;5;4.2;8;4;24;25;4;4;8;Yes;Yes;Books
+Emma   ;27;2;1.4;10;0;43;54;1;2;19;Yes;No ;Books
+John   ;27;9;2;5;13;18;35;10;2;7;No ;Yes;Games
+Michael;27;27;1.5;0;1;23;28;3;1;0;Yes;No ;Books
+Jane   ;27;29;4.4;8;5;9;62;7;0;6;No ;No ;Books
+Sophia ;27;1;3.7;3;14;36;25;6;5;5;Yes;Yes;Books
+Sophia ;27;13;1.9;3;15;50;55;0;1;19;No ;No ;Games
+William;27;3;3;3;19;36;68;10;3;19;No ;No ;Books
+Jane   ;27;3;2.6;9;17;33;65;2;4;13;Yes;No ;Books
+Michael;27;8;2.3;7;1;21;6;10;2;10;No ;Yes;Books
+Jane   ;27;26;1.8;4;16;42;42;3;5;15;Yes;No ;Games
+Emma   ;27;4;3.4;6;2;46;6;0;4;12;Yes;Yes;Games
+Sophia ;27;4;4.4;8;19;31;35;0;1;20;No ;Yes;Games
+James  ;27;18;1.2;2;2;48;22;0;3;18;Yes;No ;Games
+William;27;29;4.5;5;13;42;75;5;5;9;Yes;Yes;Books
+James  ;27;22;2.3;0;18;35;6;6;1;13;No ;No ;Books
+Olivia ;28;13;4.5;8;8;16;37;5;1;2;No ;Yes;Games
+John   ;28;9;3.2;7;9;1;53;7;0;12;Yes;Yes;Books
+William;28;18;3.3;5;13;35;93;1;4;18;No ;Yes;Books
+James  ;28;25;1.9;10;5;12;9;7;4;14;Yes;No ;Books
+James  ;28;6;4;3;6;23;7;3;0;8;Yes;No ;Games
+Emma   ;28;27;4.9;9;19;35;1;4;2;2;No ;No ;Books
+James  ;28;30;2.5;5;18;3;42;4;5;5;Yes;Yes;Games
+Sophia ;28;8;4.1;0;11;21;22;6;3;2;Yes;Yes;Books
+Emma   ;28;23;3.3;4;6;11;32;1;2;2;Yes;Yes;Books
+Jane   ;28;12;4.2;8;15;12;84;8;2;2;Yes;No ;Books
+Olivia ;28;29;3;3;6;39;36;10;5;18;No ;No ;Books
+Olivia ;28;24;3.9;2;14;29;95;4;5;3;Yes;Yes;Games
+William;28;9;4.1;9;16;36;3;5;2;12;No ;No ;Games
+John   ;28;13;4.1;0;9;3;7;4;1;3;No ;Yes;Games
+Emma   ;28;23;4;6;18;43;25;5;5;0;Yes;Yes;Games
+John   ;28;19;3.2;6;3;34;23;9;1;10;Yes;Yes;Books
+James  ;28;4;2.7;6;10;44;71;5;3;4;No ;No ;Books
+Olivia ;28;3;3.4;10;14;36;92;9;2;20;Yes;No ;Books
+James  ;29;27;3.3;9;6;7;31;4;2;19;No ;No ;Games
+Sophia ;29;10;3.1;1;5;42;9;2;2;5;No ;Yes;Games
+Michael;29;22;4.6;7;0;45;36;3;5;16;Yes;No ;Books
+James  ;29;0;3.9;1;9;22;56;9;5;14;Yes;No ;Books
+John   ;29;23;4.5;2;3;45;84;0;3;2;Yes;Yes;Games
+Emma   ;29;22;3.3;7;19;42;8;5;3;9;Yes;No ;Books
+John   ;29;12;1.5;9;17;46;86;10;3;7;Yes;Yes;Games
+Emma   ;29;19;3;4;17;47;89;9;5;2;Yes;Yes;Books
+Michael;29;0;4.7;2;2;16;57;6;2;1;No ;No ;Books
+Sophia ;29;11;3.1;8;11;35;94;0;4;10;Yes;No ;Books
+Jane   ;29;17;1.4;7;9;8;26;3;0;14;No ;No ;Games
+Jane   ;29;6;1.2;9;18;9;22;4;3;9;Yes;No ;Games
+James  ;29;0;2.6;2;11;37;0;9;1;15;Yes;No ;Books
+Olivia ;29;22;2.4;2;7;33;1;8;3;3;Yes;No ;Books
+John   ;29;18;3.4;9;0;14;5;10;5;13;No ;Yes;Books
+Olivia ;29;20;4;5;8;45;78;3;0;10;Yes;Yes;Books
+William;29;20;3.8;5;20;44;65;9;4;8;No ;No ;Games
+William;29;0;4.6;10;10;46;49;0;0;8;No ;No ;Books
+Emma   ;29;20;4.4;0;0;11;41;3;1;7;Yes;No ;Books
+Jane   ;29;19;3.9;6;2;45;74;1;0;0;No ;Yes;Books
+Jane   ;30;25;3.5;0;1;10;67;9;4;13;Yes;No ;Books
+William;30;15;2;0;3;3;57;6;2;15;Yes;No ;Books
+John   ;30;8;4.3;7;4;44;6;3;0;9;Yes;Yes;Games
+William;30;28;4.6;3;1;9;18;6;5;14;No ;No ;Games
+Michael;30;24;4.9;1;8;34;18;1;4;11;No ;No ;Games
+William;30;27;2.1;4;8;21;99;3;5;6;Yes;No ;Games
+Sophia ;30;0;3.4;6;15;30;18;2;1;10;No ;No ;Books
+William;30;4;2.2;0;19;37;15;3;5;5;No ;Yes;Books
+Olivia ;30;26;3.7;0;10;17;17;3;0;9;No ;No ;Books
+Emma   ;30;14;3.3;7;12;13;75;8;5;1;No ;No ;Games
+James  ;30;7;2.2;3;15;27;17;9;1;9;No ;Yes;Books
+Jane   ;30;19;1.4;1;8;19;42;7;2;15;No ;Yes;Books
+James  ;30;30;4.2;6;2;37;29;9;5;10;Yes;No ;Games
+James  ;30;11;1.3;10;9;24;70;10;3;6;No ;No ;Games
+James  ;30;23;3.9;9;6;25;34;1;4;17;No ;Yes;Books
+Olivia ;30;16;4.2;6;17;9;43;6;5;19;No ;No ;Books
+Sophia ;30;4;4.2;10;19;36;65;0;2;5;No ;No ;Games
+Jane   ;30;29;1.5;2;0;46;55;0;3;9;Yes;Yes;Games
+Emma   ;30;15;2.5;10;11;27;17;0;3;1;No ;Yes;Games
+James  ;30;0;4.6;7;4;20;68;3;1;7;No ;No ;Games
+Olivia ;30;5;2.1;8;5;37;8;4;3;17;Yes;Yes;Games
+Emma   ;30;30;2.1;0;20;16;3;4;4;16;No ;No ;Games
+Sophia ;30;12;3.9;2;17;9;55;4;2;3;No ;No ;Books
+Michael;30;14;2.1;4;18;31;96;3;4;9;Yes;No ;Books
+James  ;30;10;3.1;1;14;12;13;1;3;14;Yes;No ;Books
+James  ;30;12;2.6;1;4;12;53;1;1;17;Yes;Yes;Books
+John   ;30;2;3.9;6;7;15;62;4;4;13;No ;No ;Books
+James  ;30;27;3.2;10;12;30;93;6;2;7;No ;Yes;Books
+Jane   ;31;27;4.7;10;17;13;12;5;3;3;No ;Yes;Books
+John   ;31;23;1.3;8;19;28;50;0;3;10;No ;Yes;Games
+Michael;31;10;3.5;6;13;46;95;9;3;9;No ;Yes;Games
+Olivia ;31;9;2.7;10;19;0;84;2;0;5;Yes;Yes;Books
+Michael;31;23;2.1;9;11;43;82;4;1;10;Yes;No ;Books
+John   ;31;7;1.4;9;20;16;29;2;5;5;No ;Yes;Games
+William;31;6;3.6;2;10;31;82;10;3;8;No ;Yes;Books
+William;31;21;4.5;1;17;5;63;9;1;0;No ;Yes;Games
+William;31;29;3;1;2;36;53;9;4;14;No ;No ;Books
+James  ;31;12;2.4;5;15;30;45;1;1;16;Yes;Yes;Books
+Sophia ;31;11;2.4;0;1;49;22;4;5;8;Yes;Yes;Games
+Jane   ;31;0;1.3;9;8;2;89;4;3;8;Yes;No ;Books
+John   ;31;11;3.9;10;16;3;49;5;1;20;No ;Yes;Books
+Michael;31;20;4.5;2;2;21;30;9;0;11;No ;No ;Games
+William;31;1;1.2;6;15;5;50;10;1;0;Yes;Yes;Games
+James  ;31;7;4.9;9;14;19;82;9;4;5;Yes;Yes;Games
+Olivia ;31;17;3.6;5;1;38;4;6;3;17;No ;No ;Books
+James  ;31;26;1.8;1;8;11;88;3;0;18;Yes;No ;Games
+Sophia ;31;5;4.2;3;10;44;82;1;3;13;Yes;No ;Books
+Sophia ;31;22;2;5;18;29;74;3;1;4;No ;Yes;Books
+Olivia ;31;11;1.3;9;1;42;23;1;4;12;No ;No ;Books
+James  ;31;21;3.1;0;12;38;84;8;2;16;No ;Yes;Books
+Olivia ;32;30;4.3;7;8;11;61;8;3;2;Yes;Yes;Games
+Olivia ;32;29;4.7;0;13;16;27;6;0;16;No ;Yes;Games
+Olivia ;32;0;3.7;9;4;6;86;0;1;3;No ;No ;Books
+Olivia ;32;30;2.3;9;7;26;15;3;0;9;No ;No ;Books
+Olivia ;32;10;1.5;9;13;22;62;6;0;19;Yes;Yes;Books
+Olivia ;32;10;2.3;6;8;30;59;4;5;2;No ;Yes;Books
+Olivia ;32;17;2.4;10;16;12;44;6;0;10;No ;Yes;Books
+Sophia ;32;18;1.4;1;13;5;33;0;3;16;Yes;Yes;Books
+Sophia ;32;2;2.9;1;2;20;38;1;4;0;No ;No ;Games
+Jane   ;32;6;1.4;8;4;50;38;1;2;6;Yes;No ;Books
+Olivia ;32;29;3.3;10;2;6;68;9;2;1;No ;Yes;Games
+Sophia ;32;15;2.7;6;12;34;86;3;5;5;Yes;No ;Games
+James  ;32;0;3.7;2;0;7;60;1;0;2;No ;Yes;Books
+Olivia ;32;1;1.7;1;14;19;23;9;2;2;No ;No ;Games
+Sophia ;32;0;3;9;7;6;32;7;2;5;No ;No ;Games
+Michael;32;25;1.5;10;5;0;55;7;4;13;Yes;Yes;Books
+Olivia ;32;15;2.2;7;20;23;4;7;1;14;No ;Yes;Games
+Emma   ;32;15;2.2;7;13;48;37;5;0;20;No ;No ;Books
+Michael;32;16;4.4;6;17;16;86;10;4;17;No ;No ;Games
+Michael;32;16;3.7;9;6;37;24;8;5;1;No ;No ;Books
+Emma   ;32;29;4.1;10;19;49;86;6;5;1;No ;Yes;Books
+James  ;32;7;1.6;5;16;15;89;6;5;17;Yes;Yes;Games
+Sophia ;32;7;1.3;8;3;21;9;3;1;12;No ;No ;Games
+Emma   ;32;1;3.5;9;5;36;2;1;2;7;Yes;Yes;Games
+Jane   ;32;12;3.9;4;0;0;67;1;2;6;No ;Yes;Games
+James  ;32;20;2.4;6;0;35;10;6;5;15;Yes;Yes;Books
+Michael;32;15;4.5;5;8;5;12;10;4;11;No ;Yes;Games
+James  ;33;9;4.3;10;16;18;40;8;1;14;Yes;Yes;Books
+William;33;8;2.7;5;2;45;31;8;2;15;No ;No ;Books
+Jane   ;33;26;2.8;7;7;13;53;0;2;18;Yes;Yes;Games
+Michael;33;0;4.5;0;10;4;43;4;4;19;No ;No ;Games
+John   ;33;13;4.9;6;4;36;3;4;3;19;Yes;No ;Games
+Michael;33;12;1.5;5;9;15;40;4;3;13;No ;Yes;Games
+Emma   ;33;2;4;7;19;36;19;0;0;17;No ;No ;Books
+William;33;16;2.4;0;16;40;92;1;2;16;Yes;Yes;Books
+Sophia ;33;14;5;4;14;9;86;0;1;5;Yes;No ;Games
+Emma   ;33;26;1.3;2;2;50;44;8;4;1;Yes;Yes;Games
+John   ;33;19;5;10;0;13;0;4;2;17;Yes;No ;Games
+Jane   ;33;20;4.7;1;6;5;25;4;5;20;No ;Yes;Books
+William;33;18;1.1;2;5;44;63;0;2;15;No ;No ;Books
+Emma   ;33;11;2.7;2;0;13;1;10;2;7;No ;Yes;Books
+Emma   ;33;12;3.6;8;11;12;27;10;2;19;Yes;No ;Games
+Olivia ;33;22;2.1;4;9;45;84;8;5;17;No ;Yes;Books
+William;34;25;4.8;3;3;42;17;6;4;10;Yes;No ;Books
+Jane   ;34;24;2.2;3;13;42;11;5;1;9;No ;No ;Books
+William;34;8;3.9;1;6;49;73;4;3;10;Yes;Yes;Books
+James  ;34;18;4.3;10;17;37;64;2;5;5;No ;No ;Games
+Sophia ;34;21;4.7;1;10;43;70;4;0;3;Yes;No ;Games
+James  ;34;29;2.5;4;17;21;42;4;4;15;Yes;Yes;Books
+James  ;34;20;3.1;6;10;26;63;3;4;17;No ;No ;Books
+John   ;34;24;4.2;10;8;20;47;10;5;19;No ;No ;Games
+John   ;34;4;3.1;5;16;42;47;4;4;1;No ;Yes;Games
+Jane   ;34;11;3.4;5;15;24;48;8;1;3;Yes;Yes;Games
+Jane   ;34;21;4.1;9;3;46;17;10;5;9;Yes;Yes;Books
+Michael;34;21;2.4;7;5;14;14;2;2;17;Yes;Yes;Books
+James  ;34;16;2;9;5;11;82;4;1;13;No ;No ;Books
+Emma   ;34;25;4.7;7;8;40;67;9;2;13;No ;Yes;Games
+Jane   ;34;15;2.1;4;12;30;75;2;0;5;No ;No ;Games
+John   ;34;17;1.3;7;4;31;37;2;1;10;Yes;Yes;Games
+James  ;34;7;4.3;6;17;25;25;4;3;12;No ;No ;Games
+William;34;0;2.1;0;18;48;37;10;5;10;No ;No ;Books
+Michael;34;18;2;7;14;22;12;3;4;6;Yes;Yes;Books
+Olivia ;34;14;3;8;18;5;50;1;3;7;Yes;No ;Books
+James  ;34;2;2.2;10;17;10;97;5;3;6;Yes;Yes;Books
+Olivia ;34;14;2.5;10;5;22;15;3;3;13;Yes;Yes;Books
+Michael;34;20;3.1;10;7;48;93;5;3;2;Yes;Yes;Games
+Emma   ;35;0;2.3;8;15;50;47;5;0;17;No ;Yes;Books
+Jane   ;35;6;4.8;8;14;32;1;4;1;4;Yes;No ;Books
+Sophia ;35;17;4.4;6;9;15;96;6;2;1;Yes;Yes;Games
+William;35;5;4.5;0;2;17;68;8;3;14;No ;No ;Games
+Olivia ;35;26;2.6;3;1;16;99;8;1;10;Yes;No ;Games
+Jane   ;35;22;3.7;3;8;39;79;7;2;12;Yes;No ;Books
+Sophia ;35;12;2;9;12;39;27;8;5;14;Yes;Yes;Books
+James  ;35;14;4.6;6;10;47;100;10;4;10;Yes;No ;Books
+John   ;35;9;3.7;2;17;15;69;0;0;14;No ;No ;Books
+Jane   ;35;25;1.6;10;17;29;5;10;2;2;No ;No ;Books
+William;35;14;1.9;3;14;50;26;3;2;12;Yes;Yes;Games
+John   ;35;30;1.2;0;20;34;25;7;1;0;Yes;Yes;Books
+Emma   ;35;9;2.3;6;6;36;21;10;5;20;No ;Yes;Books
+Olivia ;35;2;2;9;7;27;57;1;1;7;Yes;No ;Games
+Jane   ;35;18;1.1;0;10;43;37;4;0;20;Yes;Yes;Games
+Michael;35;19;3.7;4;7;9;6;1;4;16;No ;No ;Books
+Michael;35;8;1.6;8;9;30;69;1;3;14;Yes;Yes;Games
+John   ;35;30;1.7;10;10;17;22;3;3;20;Yes;No ;Games
+Jane   ;35;18;4.3;9;7;30;91;2;4;10;No ;Yes;Games
+Michael;35;29;4.4;0;9;33;12;6;0;15;No ;Yes;Games
+Emma   ;35;12;2.6;8;19;19;18;3;3;4;No ;Yes;Books
+Olivia ;35;27;3.4;4;11;1;45;5;5;18;Yes;Yes;Games
+Jane   ;35;25;3.8;9;19;48;16;5;3;12;Yes;No ;Books
+John   ;35;12;1.9;2;5;12;92;7;5;5;No ;No ;Books
+John   ;35;17;1.9;9;15;28;18;0;0;11;Yes;No ;Games
+John   ;36;8;1.2;3;7;26;100;5;1;10;No ;Yes;Books
+Michael;36;12;1.6;6;13;3;83;9;5;19;No ;Yes;Games
+Michael;36;22;3.1;9;20;28;9;6;4;13;Yes;No ;Books
+John   ;36;20;3.7;10;1;22;44;10;0;9;Yes;Yes;Games
+Olivia ;36;8;2.5;3;17;50;18;6;1;19;Yes;No ;Games
+William;36;30;4.4;8;17;16;22;3;2;6;No ;No ;Books
+Michael;36;5;3.3;7;7;1;79;1;5;2;Yes;No ;Games
+Sophia ;36;20;2.2;4;19;4;15;3;3;14;No ;Yes;Books
+William;36;17;2;0;2;20;24;0;4;11;No ;No ;Games
+Sophia ;36;23;4;9;6;7;17;7;2;18;Yes;No ;Games
+Sophia ;36;8;2;2;15;7;52;7;1;15;No ;Yes;Books
+Jane   ;36;3;2.5;2;18;6;55;9;5;2;Yes;Yes;Games
+John   ;36;25;2.8;5;0;45;9;5;2;7;No ;Yes;Books
+William;36;19;2.8;9;18;37;66;3;5;4;Yes;Yes;Books
+Michael;36;13;4.9;4;1;11;57;4;2;3;No ;No ;Games
+John   ;36;26;2.4;10;1;5;5;6;5;10;Yes;No ;Books
+Michael;36;25;2.9;6;5;35;38;1;4;12;No ;No ;Books
+Olivia ;36;29;3.8;5;7;22;14;9;2;17;Yes;Yes;Games
+James  ;36;17;3.6;7;10;12;19;4;4;18;No ;No ;Books
+Emma   ;36;1;2.1;7;20;44;79;5;2;15;No ;No ;Games
+Emma   ;36;18;4.9;9;15;49;24;3;4;4;Yes;No ;Games
+William;36;28;4.4;10;2;26;29;10;3;16;Yes;Yes;Books
+James  ;36;4;1.6;8;1;42;83;7;0;7;Yes;No ;Books
+John   ;36;24;3.2;10;14;11;73;2;4;16;Yes;No ;Games
+Jane   ;36;9;1.9;10;15;15;45;6;3;3;Yes;No ;Games
+John   ;37;18;2;6;17;8;2;2;2;13;Yes;Yes;Books
+Michael;37;22;2.7;7;6;20;48;6;3;13;Yes;Yes;Games
+Olivia ;37;14;1;6;6;27;46;1;5;11;No ;No ;Books
+John   ;37;15;1.2;0;12;13;5;1;0;15;No ;Yes;Books
+Emma   ;37;26;3.9;3;0;44;60;2;2;13;Yes;Yes;Books
+Michael;37;7;2.5;3;20;7;29;10;4;2;Yes;Yes;Books
+Jane   ;37;15;1.8;8;12;43;56;9;3;0;Yes;Yes;Books
+Sophia ;37;6;4.2;8;12;2;25;8;0;18;Yes;Yes;Books
+Sophia ;37;23;3.9;10;8;36;20;4;1;15;No ;Yes;Games
+William;37;25;1.5;4;0;23;48;3;5;7;Yes;Yes;Books
+Olivia ;37;29;3.7;9;1;30;55;6;4;7;No ;No ;Books
+Sophia ;37;18;1.6;0;4;2;89;5;0;3;Yes;Yes;Games
+Michael;37;17;3;6;4;48;6;10;1;9;Yes;Yes;Games
+James  ;37;25;1.7;10;2;1;47;8;2;8;Yes;No ;Books
+Michael;37;4;3.9;8;5;46;5;2;2;9;Yes;Yes;Games
+William;37;26;4.4;8;18;13;14;1;1;20;No ;No ;Games
+James  ;37;4;4.3;1;12;49;16;3;1;2;Yes;Yes;Games
+John   ;37;11;1.6;6;10;45;29;5;2;10;Yes;No ;Games
+Olivia ;38;0;2.9;0;14;34;20;8;0;4;Yes;Yes;Games
+Olivia ;38;5;2;1;20;15;88;10;0;9;Yes;Yes;Games
+Sophia ;38;14;2;7;13;42;34;4;5;20;Yes;No ;Books
+John   ;38;3;4.9;10;3;19;65;1;2;9;No ;Yes;Games
+Olivia ;38;26;4;10;5;0;59;7;4;9;Yes;Yes;Games
+James  ;38;6;4.9;10;5;0;74;0;5;12;Yes;Yes;Games
+William;38;30;2.8;5;4;32;79;4;1;6;Yes;Yes;Games
+John   ;38;27;4.6;0;9;43;9;9;1;17;No ;Yes;Books
+Olivia ;38;21;3.2;5;16;21;75;1;0;2;Yes;Yes;Books
+Sophia ;38;2;3.7;2;10;0;48;4;0;20;No ;Yes;Games
+Sophia ;38;21;3.1;7;14;9;9;6;4;7;No ;No ;Books
+Emma   ;38;13;2.5;4;16;46;68;10;1;0;No ;No ;Games
+William;38;10;3.9;2;7;12;31;3;0;8;No ;No ;Games
+Olivia ;38;14;3.9;6;8;31;14;10;4;19;No ;Yes;Games
+Jane   ;38;11;3.1;8;17;7;22;8;3;20;Yes;Yes;Books
+Olivia ;38;0;4.9;10;19;34;27;4;0;3;Yes;No ;Books
+Michael;38;7;3.1;7;3;3;83;0;0;3;No ;No ;Games
+William;38;11;2;8;3;23;83;4;0;10;No ;No ;Books
+Emma   ;38;13;2;9;13;15;30;1;3;16;No ;No ;Games
+Emma   ;38;10;4.1;2;2;39;95;1;0;5;Yes;Yes;Books
+Michael;38;21;1;4;4;1;46;6;5;5;Yes;No ;Books
+William;38;20;1.6;4;11;42;9;4;5;0;Yes;Yes;Games
+William;38;29;4.4;10;14;40;67;3;1;2;No ;No ;Books
+Michael;38;4;3.8;3;17;24;47;9;5;12;No ;Yes;Books
+Michael;38;6;3.7;3;4;12;16;1;5;1;Yes;Yes;Games
+Olivia ;38;15;2.1;2;10;17;55;9;1;7;No ;Yes;Games
+Olivia ;38;6;2.6;4;14;15;39;8;3;6;Yes;Yes;Books
+Sophia ;38;9;1.4;9;0;16;54;7;3;19;No ;Yes;Games
+Sophia ;39;21;2;9;0;5;90;6;3;4;Yes;Yes;Books
+Sophia ;39;14;1.7;6;2;16;12;2;2;19;No ;No ;Games
+Jane   ;39;7;4.6;7;4;11;37;0;2;12;No ;Yes;Books
+Olivia ;39;14;1.5;4;4;20;19;9;2;13;No ;Yes;Books
+Olivia ;39;16;1.8;5;19;32;70;3;0;20;Yes;No ;Books
+John   ;39;3;1.6;8;15;49;68;8;0;7;Yes;No ;Games
+Sophia ;39;26;3.2;4;7;10;76;3;3;8;Yes;No ;Games
+Sophia ;39;23;2.9;2;12;15;60;3;0;19;Yes;No ;Books
+Emma   ;39;2;4.5;1;12;46;17;1;5;12;No ;Yes;Games
+Jane   ;39;11;4.3;3;11;10;40;4;0;11;Yes;No ;Games
+Sophia ;39;2;4;9;14;15;73;3;1;6;No ;Yes;Books
+Jane   ;39;25;1.7;6;7;26;40;2;2;2;No ;Yes;Books
+John   ;39;22;3.2;4;5;50;40;7;1;9;No ;Yes;Books
+Michael;39;19;1.1;5;18;12;22;0;5;4;No ;Yes;Books
+John   ;39;22;3.6;8;4;44;3;10;2;12;No ;No ;Books
+Emma   ;39;11;2.7;8;2;27;32;2;0;5;No ;Yes;Games
+Olivia ;39;20;1.3;3;0;36;64;8;2;16;Yes;Yes;Games
+Sophia ;39;17;3.3;10;10;1;75;1;3;1;No ;No ;Books
+John   ;39;3;3.7;2;20;5;33;0;0;20;Yes;No ;Books
+Olivia ;39;13;1.4;3;18;34;68;2;2;9;Yes;No ;Books
+William;39;11;2;9;2;42;12;9;5;0;Yes;Yes;Games
+Sophia ;39;17;3.7;9;14;5;6;9;2;2;No ;Yes;Books
+Sophia ;39;1;5;6;8;10;99;7;1;2;No ;No ;Games
+Jane   ;39;19;3.4;7;0;49;19;0;2;19;Yes;Yes;Games
+Emma   ;39;10;4.4;8;14;27;72;3;2;10;No ;Yes;Games
+Olivia ;39;20;3.8;4;14;37;33;7;4;5;No ;No ;Games
+Jane   ;39;24;4.9;2;2;36;15;1;0;12;No ;Yes;Books
+John   ;39;13;4.8;10;9;31;3;5;5;17;Yes;Yes;Games
+James  ;39;15;2;2;18;44;69;5;0;3;No ;No ;Books
+Emma   ;39;12;3.5;0;2;40;59;9;1;20;Yes;Yes;Games
+William;40;15;4.4;0;7;3;39;1;5;20;No ;Yes;Games
+Michael;40;22;3.9;3;4;45;44;8;5;10;Yes;Yes;Games
+James  ;40;6;1.8;5;0;38;65;8;1;10;No ;Yes;Games
+John   ;40;29;2.3;4;19;49;95;7;0;3;No ;Yes;Books
+Olivia ;40;15;1.9;2;17;34;65;1;5;8;Yes;Yes;Games
+Sophia ;40;22;3.9;6;6;6;72;7;2;20;No ;No ;Books
+William;40;14;2.7;9;16;4;68;3;1;8;Yes;Yes;Games
+James  ;40;8;2.9;7;17;49;61;3;1;16;No ;Yes;Games
+William;40;26;4.1;4;12;19;23;1;3;7;No ;No ;Books
+William;40;6;5;4;4;29;18;7;0;10;Yes;No ;Books
+Olivia ;40;4;2.7;8;15;26;9;7;1;14;Yes;No ;Books
+Sophia ;40;16;2.1;3;10;20;82;9;0;9;Yes;Yes;Games
+John   ;40;6;3.6;4;4;34;23;0;1;7;No ;Yes;Games
+John   ;40;12;3.1;1;0;46;17;0;5;17;No ;No ;Games
+Jane   ;40;22;2.7;5;1;49;19;8;4;6;Yes;No ;Games
+Michael;40;19;2.3;9;2;31;46;1;4;18;No ;No ;Books
+Emma   ;40;13;4.6;4;14;16;19;8;0;4;Yes;Yes;Games
+Sophia ;40;0;4.3;1;17;47;52;9;3;10;No ;Yes;Games
+William;40;27;1.9;2;13;32;64;9;3;10;No ;Yes;Games
+Olivia ;40;10;3;3;0;22;71;2;5;17;Yes;No ;Books
+James  ;40;4;4;3;14;43;79;6;1;9;Yes;Yes;Books
+Sophia ;41;25;3.7;7;4;37;88;0;1;10;Yes;Yes;Games
+John   ;41;10;1.3;8;1;16;24;5;5;3;No ;No ;Games
+William;41;14;2.2;4;1;47;83;9;5;14;Yes;No ;Books
+James  ;41;10;1.9;8;10;38;35;9;5;17;Yes;Yes;Books
+William;41;2;1.7;8;18;32;50;10;0;19;Yes;Yes;Books
+Emma   ;41;6;3.9;2;5;16;14;10;3;8;No ;No ;Games
+Jane   ;41;29;2;8;3;24;72;2;1;8;Yes;No ;Games
+James  ;41;21;3.1;9;1;48;12;9;0;3;No ;No ;Books
+John   ;41;11;2.2;7;5;39;50;2;3;7;Yes;No ;Games
+Michael;41;8;1.4;6;20;0;36;0;4;0;Yes;No ;Games
+Olivia ;41;12;2.4;2;5;36;84;7;2;20;Yes;Yes;Games
+Michael;41;16;3;9;5;48;16;8;4;2;No ;No ;Games
+Olivia ;41;22;1.6;0;10;41;59;0;5;19;Yes;Yes;Books
+John   ;41;0;3.6;10;15;46;83;7;3;12;Yes;Yes;Games
+Michael;41;1;2.3;1;18;46;43;4;0;18;No ;No ;Books
+John   ;41;12;2.8;9;5;0;11;9;2;11;Yes;No ;Games
+John   ;41;13;1.7;8;6;33;27;1;4;9;No ;No ;Games
+Olivia ;41;27;3.9;10;20;2;99;2;4;13;No ;No ;Books
+Michael;41;15;1.6;5;19;24;52;3;3;7;No ;Yes;Books
+John   ;41;10;3.6;3;20;46;54;1;4;7;Yes;No ;Books
+Sophia ;41;28;3.8;9;7;41;32;6;4;18;No ;No ;Games
+James  ;41;6;2;9;13;24;5;1;1;18;Yes;No ;Games
+John   ;41;0;2.6;8;9;41;21;7;0;1;Yes;Yes;Games
+Michael;42;27;3.3;3;10;12;8;8;4;1;No ;No ;Games
+Jane   ;42;12;2.8;7;2;14;17;2;5;0;No ;Yes;Games
+John   ;42;20;4.2;6;9;45;83;0;0;16;No ;Yes;Games
+Olivia ;42;15;4.4;9;4;49;18;9;3;12;No ;No ;Games
+John   ;42;9;4.3;5;13;4;22;0;5;17;No ;No ;Games
+Michael;42;21;3.9;4;9;40;69;9;4;4;Yes;No ;Books
+Olivia ;42;14;3.9;6;8;0;75;4;0;20;Yes;No ;Books
+Olivia ;42;25;3.8;9;15;30;92;5;2;4;No ;No ;Books
+Olivia ;42;10;4.7;5;0;24;3;9;0;5;No ;No ;Books
+Sophia ;42;18;2.1;0;9;27;4;4;0;12;Yes;Yes;Books
+James  ;42;8;1.3;7;1;45;22;8;4;12;No ;No ;Books
+Sophia ;42;24;3.2;6;18;25;40;9;1;1;Yes;Yes;Games
+William;42;12;4.3;5;17;44;65;10;3;16;No ;No ;Games
+Michael;42;22;2.9;7;7;16;53;7;5;13;Yes;No ;Books
+John   ;42;25;2.2;3;3;21;2;5;3;11;Yes;Yes;Books
+Michael;42;4;4.7;10;7;7;85;3;1;16;Yes;Yes;Games
+Michael;42;12;3.6;0;17;6;57;7;1;0;Yes;Yes;Books
+William;42;7;2;7;20;28;27;3;5;8;Yes;No ;Books
+William;42;3;3.8;0;3;32;36;8;3;13;Yes;No ;Games
+Sophia ;43;13;4.2;4;10;21;21;5;2;15;No ;Yes;Books
+John   ;43;2;3.1;1;0;50;4;1;3;19;No ;Yes;Games
+Emma   ;43;4;3.8;4;1;19;43;1;4;13;No ;Yes;Books
+Sophia ;43;15;4.7;4;15;32;14;2;0;4;No ;No ;Books
+Sophia ;43;8;4;6;5;34;68;0;3;20;Yes;Yes;Games
+Michael;43;17;2.1;4;11;0;75;10;1;5;Yes;Yes;Games
+Jane   ;43;18;4;7;2;5;77;9;1;0;No ;No ;Books
+Sophia ;43;16;3.3;7;5;1;14;6;0;3;No ;Yes;Games
+James  ;43;4;2.5;9;19;21;45;7;5;17;No ;No ;Games
+James  ;43;5;3.4;5;6;26;65;4;0;14;No ;No ;Books
+Sophia ;43;24;3.2;9;1;26;14;0;0;17;Yes;No ;Books
+Sophia ;43;14;2.4;9;17;48;84;3;5;1;No ;No ;Games
+Jane   ;43;29;1.6;6;7;39;45;6;2;6;Yes;No ;Games
+Michael;43;5;4.6;10;10;7;32;9;0;19;Yes;Yes;Games
+James  ;43;8;3.8;10;5;27;42;8;3;9;No ;Yes;Games
+Jane   ;43;2;1.4;8;11;21;62;9;0;12;No ;Yes;Games
+Sophia ;43;17;1.1;2;17;36;83;2;2;5;No ;No ;Games
+Sophia ;43;25;2.6;1;10;35;100;8;2;2;Yes;Yes;Books
+James  ;43;1;4;6;2;22;30;8;5;1;No ;No ;Books
+James  ;43;2;3.7;5;14;26;3;5;2;9;Yes;No ;Books
+Olivia ;43;17;1.2;1;19;35;85;4;4;13;No ;No ;Books
+Olivia ;43;28;2.7;3;9;35;9;8;1;3;No ;No ;Games
+Jane   ;43;19;2;9;16;25;14;10;1;14;No ;No ;Books
+Olivia ;43;29;3.5;6;19;48;20;3;0;1;Yes;No ;Games
+Emma   ;43;16;3.5;1;1;8;76;4;1;5;Yes;Yes;Books
+Olivia ;43;0;4.3;3;10;25;31;1;1;3;No ;Yes;Books
+Michael;43;21;1.7;1;17;4;10;3;5;10;No ;Yes;Books
+James  ;43;7;2.3;0;3;20;32;6;0;18;Yes;No ;Books
+Michael;43;27;4;9;16;31;77;3;5;19;No ;Yes;Books
+Olivia ;43;30;1;3;6;48;46;1;2;11;No ;No ;Games
+Jane   ;44;7;3.2;6;14;8;4;8;0;13;Yes;Yes;Books
+William;44;28;3.7;9;4;25;36;9;0;18;Yes;Yes;Books
+Olivia ;44;23;3.9;3;1;39;49;5;0;7;No ;No ;Books
+William;44;24;3.5;4;14;34;35;2;0;6;Yes;No ;Games
+Sophia ;44;20;3.5;7;15;30;4;9;4;0;Yes;Yes;Books
+Sophia ;44;7;4.4;1;19;18;74;1;3;0;Yes;No ;Books
+William;44;23;3.6;0;3;47;37;9;0;20;No ;No ;Games
+John   ;44;10;2.2;1;11;24;39;2;5;18;Yes;No ;Books
+John   ;44;19;1.9;6;7;34;79;2;4;20;Yes;No ;Games
+James  ;44;29;1.2;7;6;40;29;4;3;7;No ;No ;Books
+James  ;44;17;1.6;4;11;46;25;10;3;3;Yes;No ;Games
+William;44;5;1.5;0;1;47;1;9;0;17;Yes;No ;Games
+Michael;44;24;1.3;3;7;47;21;1;3;7;No ;No ;Books
+John   ;44;25;3.9;1;12;4;2;10;1;4;No ;No ;Books
+Michael;44;25;1.8;0;5;35;3;10;3;14;Yes;Yes;Books
+James  ;44;20;2.4;10;11;12;15;0;4;18;No ;No ;Games
+James  ;44;26;3.9;6;20;16;97;0;4;14;Yes;Yes;Books
+James  ;44;29;4.8;7;20;13;6;5;2;18;Yes;Yes;Books
+Olivia ;44;10;4.4;1;7;39;44;9;2;17;Yes;Yes;Books
+Michael;44;16;2.5;7;3;23;62;5;3;9;No ;Yes;Games
+Emma   ;44;0;2.3;9;12;19;26;9;5;17;Yes;Yes;Games
+Michael;44;30;3.8;4;20;47;95;4;1;17;Yes;Yes;Books
+Emma   ;44;25;3.5;9;20;2;67;8;1;11;Yes;Yes;Games
+James  ;44;11;3.2;10;0;42;52;8;3;4;No ;Yes;Books
+James  ;44;1;2;10;0;12;75;6;4;4;Yes;No ;Games
+Emma   ;44;18;1.2;3;7;3;18;2;3;10;No ;No ;Games
+Olivia ;44;0;1.3;3;11;37;14;3;4;0;Yes;Yes;Books
+Sophia ;45;18;2.4;4;8;32;27;3;4;9;No ;Yes;Games
+John   ;45;26;3.6;5;20;43;100;7;1;16;No ;Yes;Books
+John   ;45;9;2;2;1;4;30;6;3;11;No ;Yes;Books
+Michael;45;18;2.8;1;3;49;39;5;2;20;No ;Yes;Games
+William;45;15;1.9;4;20;37;8;5;2;0;Yes;Yes;Games
+James  ;45;23;3.2;8;13;41;3;7;2;7;Yes;No ;Games
+Olivia ;45;11;1.7;10;11;6;11;6;1;2;Yes;No ;Books
+Michael;45;28;3;8;6;23;71;5;5;11;No ;Yes;Games
+James  ;45;0;3.5;10;14;30;17;4;2;16;No ;No ;Games
+Michael;45;2;2.3;2;16;34;49;5;0;10;No ;Yes;Games
+William;45;1;3;6;9;46;83;0;3;4;Yes;No ;Books
+John   ;45;6;3.2;2;16;8;87;9;2;9;Yes;Yes;Books
+William;45;17;2.2;0;9;5;20;3;1;14;Yes;Yes;Games
+Jane   ;45;28;2.3;7;5;31;89;5;3;9;No ;No ;Books
+Olivia ;45;20;3.2;10;18;2;21;5;4;6;No ;No ;Games
+John   ;45;21;2.8;7;6;33;22;9;0;5;Yes;No ;Books
+Jane   ;45;21;3;6;14;25;54;9;1;15;No ;Yes;Books
+John   ;45;15;3.6;0;6;7;6;2;0;10;Yes;Yes;Games
+Jane   ;45;26;2.6;9;7;1;58;6;3;16;Yes;No ;Games
+James  ;45;5;2.3;8;2;28;3;3;4;8;Yes;No ;Games
+Jane   ;45;6;2.5;6;16;3;95;7;1;8;Yes;Yes;Books
+Sophia ;45;4;3;7;15;8;73;2;5;4;Yes;No ;Games
+Olivia ;45;22;3.4;5;9;35;92;7;1;16;Yes;Yes;Games
+Olivia ;45;15;4.6;3;14;26;51;10;4;4;No ;No ;Books
+Michael;45;1;1.3;8;18;21;25;3;3;11;No ;No ;Games
+Emma   ;45;16;4.3;4;1;2;28;4;3;5;Yes;No ;Books
+Sophia ;45;10;1.3;5;9;12;70;1;0;12;No ;No ;Games
+Sophia ;45;11;4.6;10;18;12;73;10;5;19;Yes;Yes;Books
+Olivia ;45;13;2.6;3;9;3;9;3;2;2;No ;No ;Games
+Michael;46;26;3.7;10;10;49;65;1;3;13;No ;No ;Books
+Michael;46;12;3.2;8;0;40;74;1;3;0;No ;No ;Games
+Sophia ;46;3;2.9;3;8;38;51;7;3;8;No ;No ;Books
+John   ;46;20;2.1;6;17;39;36;1;1;17;No ;No ;Games
+Michael;46;22;1.7;2;19;13;32;3;0;12;Yes;Yes;Games
+Michael;46;16;4.9;10;4;5;12;7;5;14;No ;Yes;Games
+John   ;46;23;2.7;4;6;37;20;4;2;13;No ;No ;Books
+William;46;19;1.8;9;1;25;48;8;1;16;Yes;Yes;Books
+Sophia ;46;11;2.7;0;1;38;74;3;1;16;No ;Yes;Games
+Olivia ;46;1;1.2;5;6;10;99;8;0;9;No ;Yes;Games
+John   ;46;28;3.4;5;11;45;6;0;3;2;Yes;Yes;Games
+Michael;46;7;3.7;9;10;4;21;1;0;16;Yes;No ;Books
+James  ;46;8;2.1;0;9;1;50;8;2;18;No ;No ;Books
+Olivia ;46;19;4.7;0;6;21;38;10;5;0;Yes;Yes;Games
+William;46;3;3.3;4;16;13;99;6;2;7;Yes;No ;Games
+William;46;1;1.8;9;5;36;8;9;5;2;No ;No ;Books
+John   ;46;30;2.1;3;6;5;11;10;2;13;Yes;No ;Books
+Emma   ;46;1;3;9;5;12;44;0;2;19;No ;Yes;Books
+Michael;46;14;3.9;5;9;8;25;6;2;8;Yes;Yes;Books
+Sophia ;46;12;4;3;9;48;10;4;3;2;Yes;Yes;Games
+John   ;46;16;4.5;1;10;46;26;8;2;0;No ;No ;Books
+Michael;46;26;4.2;4;19;16;89;9;4;7;No ;No ;Books
+Jane   ;46;7;2.8;2;20;47;31;1;1;4;No ;No ;Books
+John   ;47;30;3.9;0;16;12;41;7;5;7;Yes;Yes;Games
+John   ;47;15;3.2;1;4;38;1;6;4;15;Yes;Yes;Books
+Michael;47;8;3.4;8;18;37;18;9;1;2;Yes;Yes;Books
+Sophia ;47;29;4.5;3;20;48;72;9;0;18;No ;Yes;Books
+John   ;47;22;4.5;7;8;8;71;10;4;16;No ;No ;Games
+Michael;47;9;2;3;14;1;43;0;4;9;No ;No ;Games
+Sophia ;47;24;1.7;6;3;45;11;4;5;4;Yes;Yes;Games
+John   ;47;22;4;4;20;21;79;6;4;4;No ;No ;Games
+Sophia ;47;17;2.1;10;12;23;69;6;5;4;No ;Yes;Books
+Emma   ;47;28;2.7;3;17;19;16;9;5;14;No ;No ;Books
+Sophia ;47;24;3.3;6;13;26;11;0;0;19;Yes;Yes;Books
+Michael;47;23;1.9;6;4;31;23;4;3;18;Yes;No ;Books
+William;47;14;4;7;3;21;14;9;3;8;Yes;Yes;Games
+Emma   ;47;11;3.1;2;12;46;96;5;4;19;Yes;Yes;Games
+William;47;1;3.4;4;14;50;65;2;0;3;No ;No ;Games
+James  ;47;14;1.5;3;8;0;64;10;5;6;No ;Yes;Books
+Sophia ;47;10;1.6;2;0;23;55;10;0;2;Yes;Yes;Games
+James  ;47;9;1.7;3;13;35;49;1;5;6;Yes;No ;Games
+Emma   ;47;18;3.9;3;13;31;64;5;5;13;Yes;Yes;Books
+Emma   ;47;18;3.3;8;14;7;17;7;3;1;Yes;Yes;Books
+John   ;47;0;1.4;3;5;21;90;1;1;18;No ;Yes;Games
+Olivia ;47;28;4.8;8;12;43;55;9;1;6;No ;No ;Games
+William;47;27;4.9;7;17;47;89;4;0;10;No ;No ;Games
+John   ;47;2;2.4;2;3;45;40;4;2;6;Yes;Yes;Books
+William;48;8;2.8;2;10;31;64;10;1;19;Yes;Yes;Games
+James  ;48;14;4.2;6;14;7;3;9;0;17;No ;Yes;Games
+Emma   ;48;11;3.6;6;12;2;28;6;5;0;No ;Yes;Games
+Jane   ;48;23;3.7;10;20;40;23;3;3;4;No ;Yes;Books
+William;48;29;4.5;7;8;43;30;3;1;17;Yes;No ;Games
+Emma   ;48;22;4.2;10;5;43;21;0;5;1;No ;Yes;Books
+John   ;48;6;3.1;5;11;35;87;1;0;14;Yes;Yes;Games
+Emma   ;48;5;3.3;7;2;21;62;10;1;6;No ;Yes;Books
+Olivia ;48;28;3.8;10;2;50;15;4;0;9;No ;Yes;Games
+John   ;48;8;3.3;0;14;29;82;10;1;5;No ;No ;Books
+Emma   ;48;27;1.6;2;17;41;20;5;4;19;Yes;Yes;Games
+Michael;48;15;2.5;10;4;10;30;9;3;16;No ;Yes;Books
+Emma   ;48;6;4.6;0;2;18;27;10;1;18;No ;No ;Games
+James  ;48;21;4.8;5;9;8;17;3;4;18;Yes;Yes;Games
+James  ;48;4;3.9;4;7;24;14;3;1;13;Yes;No ;Books
+Michael;48;1;2.6;4;12;24;74;1;1;18;No ;No ;Games
+Olivia ;49;2;4.9;10;12;38;85;8;2;18;Yes;Yes;Games
+Sophia ;49;26;4.3;10;0;13;86;10;5;14;No ;No ;Games
+Michael;49;9;3.4;3;2;33;37;8;5;13;No ;Yes;Books
+Olivia ;49;21;4.2;7;9;20;50;3;5;0;Yes;Yes;Games
+John   ;49;3;5;0;4;32;36;2;3;20;Yes;Yes;Games
+John   ;49;3;2.3;5;7;36;84;0;3;1;No ;Yes;Books
+Sophia ;49;8;2.6;4;4;24;55;6;2;19;Yes;No ;Games
+Sophia ;49;19;4.6;2;17;47;77;3;1;13;No ;Yes;Games
+Emma   ;49;29;3.2;1;15;22;4;1;1;9;No ;No ;Books
+John   ;49;8;2.7;9;4;44;64;4;0;1;Yes;Yes;Books
+Sophia ;49;7;3.9;8;5;1;68;9;4;6;No ;No ;Games
+Jane   ;49;15;3.7;0;12;29;1;8;2;11;Yes;No ;Games
+Jane   ;49;20;1.9;4;6;20;95;7;5;13;Yes;No ;Games
+Emma   ;49;24;2.9;4;17;42;14;4;3;0;No ;Yes;Books
+Michael;49;18;3.4;4;6;45;58;5;0;14;No ;No ;Games
+James  ;49;19;1;5;8;36;94;8;3;19;No ;No ;Books
+William;49;24;1.2;3;16;39;51;10;2;11;Yes;Yes;Books
+Emma   ;49;14;4.3;9;17;32;88;7;4;0;No ;Yes;Games
+Jane   ;49;7;1.3;5;20;33;87;5;5;15;Yes;No ;Games
+Jane   ;49;12;2;4;3;7;42;5;0;8;No ;No ;Games
+Jane   ;49;20;3.5;3;0;29;21;7;1;17;Yes;Yes;Games
+William;49;5;2.7;1;6;44;53;3;2;17;Yes;No ;Books
+William;49;0;3.3;1;8;0;91;9;2;9;Yes;Yes;Books
+James  ;49;9;3.9;4;6;43;78;10;0;11;No ;Yes;Books
+Jane   ;49;25;4.3;0;1;47;53;5;2;17;Yes;Yes;Games
+Jane   ;49;16;4.2;3;3;40;58;1;2;19;Yes;No ;Games
+James  ;49;22;2.2;4;10;11;7;7;5;11;No ;Yes;Games
+William;50;3;3.2;5;2;27;61;10;2;18;Yes;No ;Books
+Olivia ;50;6;4.2;1;9;30;87;2;3;3;Yes;Yes;Books
+John   ;50;17;2.2;6;5;5;8;2;4;5;No ;Yes;Books
+James  ;50;30;2.2;3;2;19;78;1;1;15;Yes;Yes;Books
+James  ;50;11;1.7;5;17;5;27;3;4;19;No ;Yes;Games
+Michael;50;13;1.7;1;3;44;15;6;0;5;No ;Yes;Games
+Olivia ;50;26;4.1;10;10;2;35;6;4;15;No ;No ;Games
+Michael;50;23;2.8;9;0;18;50;4;3;14;No ;Yes;Games
+Emma   ;50;4;4.9;3;20;12;76;2;4;16;Yes;Yes;Books
+Olivia ;50;3;1.9;3;5;26;95;1;0;19;No ;Yes;Books
+Jane   ;50;2;2.8;7;14;33;43;6;3;6;No ;Yes;Games
+John   ;50;22;3.1;3;5;41;68;10;4;2;No ;Yes;Books
+John   ;50;16;2.3;5;7;29;92;3;2;10;Yes;No ;Books
+John   ;50;16;4.5;0;13;36;55;6;2;12;No ;Yes;Books
+Olivia ;50;25;1.7;8;0;23;40;4;1;8;Yes;No ;Books
+Jane   ;50;25;2.8;2;2;5;89;5;3;20;Yes;No ;Games
+Emma   ;50;10;1.1;7;3;2;26;8;0;8;Yes;Yes;Games
+Michael;50;17;2.4;7;13;20;49;6;1;10;Yes;Yes;Books
+John   ;50;11;3.4;7;6;8;57;3;5;19;Yes;Yes;Books
+William;50;10;3.5;7;15;24;91;3;0;3;Yes;No ;Games
+Jane   ;50;10;4.9;2;2;26;16;4;5;2;No ;Yes;Books
+Emma   ;50;2;4.2;3;5;44;41;7;4;9;No ;Yes;Games
+Michael;50;20;4.4;5;13;22;91;4;0;16;Yes;Yes;Books
+Jane   ;50;8;2.1;10;1;48;82;0;1;5;Yes;No ;Books
+John   ;50;29;4.3;3;14;35;48;10;1;13;No ;Yes;Books
+Jane   ;51;12;3.1;1;0;0;48;9;4;19;No ;No ;Games
+Sophia ;51;2;1.3;8;8;16;66;7;2;13;Yes;Yes;Books
+Jane   ;51;16;2;1;7;36;0;2;0;9;No ;Yes;Games
+William;51;18;1.2;2;2;39;25;1;5;3;No ;Yes;Books
+Sophia ;51;16;5;7;15;30;94;0;2;18;No ;Yes;Games
+William;51;10;3.7;4;12;36;48;2;1;6;No ;No ;Books
+Emma   ;51;7;2.2;9;14;1;54;5;0;7;Yes;No ;Games
+Emma   ;51;25;1.9;0;5;25;19;9;4;4;No ;No ;Books
+Michael;51;16;3.7;2;8;46;96;2;3;0;No ;Yes;Games
+Olivia ;51;21;3.3;2;6;34;89;4;0;10;Yes;No ;Books
+Emma   ;51;0;1.8;10;6;9;65;2;4;4;No ;Yes;Games
+James  ;51;23;3.9;1;20;22;28;4;3;14;Yes;No ;Games
+Olivia ;51;20;2.8;1;14;1;53;9;0;7;Yes;No ;Games
+Emma   ;51;28;2.9;0;12;24;40;2;1;5;No ;Yes;Books
+William;51;4;1.8;6;1;6;99;3;4;8;Yes;Yes;Games
+Emma   ;51;19;2.8;1;8;27;75;5;0;9;No ;Yes;Games
+Emma   ;51;21;3.1;2;2;30;45;8;2;12;No ;Yes;Games
+Sophia ;52;29;1.9;7;1;34;100;6;0;5;No ;No ;Books
+Olivia ;52;6;1.4;2;2;49;51;1;0;3;Yes;No ;Games
+William;52;28;3.8;8;5;13;56;9;1;17;Yes;Yes;Books
+Jane   ;52;30;1.5;8;17;37;61;9;2;19;Yes;Yes;Games
+John   ;52;21;1.9;4;5;4;73;0;2;4;No ;Yes;Books
+Olivia ;52;22;1.4;9;2;35;78;2;2;16;Yes;No ;Books
+William;52;0;1.1;9;13;3;76;5;1;14;No ;No ;Books
+James  ;52;27;3.6;5;13;5;1;3;4;4;Yes;Yes;Games
+John   ;52;16;4.9;9;10;24;96;3;1;6;No ;Yes;Games
+Michael;52;3;4.4;3;14;19;69;10;0;13;No ;No ;Books
+William;52;30;3.9;2;10;39;25;10;4;11;No ;Yes;Games
+James  ;52;9;3.3;0;14;8;79;4;3;4;No ;No ;Games
+William;52;12;5;10;0;27;78;8;5;2;Yes;No ;Games
+John   ;52;16;4.4;8;16;25;5;4;1;15;No ;Yes;Books
+James  ;53;16;4.8;10;14;10;60;4;2;16;No ;No ;Games
+Sophia ;53;9;1.5;2;5;30;60;9;0;2;No ;No ;Books
+John   ;53;3;1.6;2;0;12;92;10;5;20;No ;Yes;Books
+Sophia ;53;12;3.5;1;3;41;69;8;2;18;Yes;Yes;Games
+Sophia ;53;6;4.2;6;6;31;96;8;4;5;Yes;No ;Books
+Sophia ;53;4;4.4;2;5;24;85;9;3;1;Yes;No ;Games
+Emma   ;53;21;4.8;2;12;43;47;9;4;17;Yes;Yes;Books
+Sophia ;53;22;2.1;1;1;18;0;3;1;9;Yes;Yes;Books
+Michael;53;16;4.4;2;7;30;53;6;3;9;Yes;No ;Games
+Olivia ;53;9;2.6;0;5;37;41;0;5;5;Yes;Yes;Books
+Sophia ;53;24;1.1;10;15;47;78;7;1;3;Yes;No ;Games
+Olivia ;53;1;1.4;7;9;19;57;9;5;9;No ;No ;Books
+William;53;23;2.1;3;17;42;74;6;3;15;Yes;Yes;Books
+Sophia ;53;9;1.1;2;14;49;98;0;3;4;Yes;No ;Games
+Olivia ;53;3;2.4;9;17;0;30;10;5;2;Yes;Yes;Games
+Emma   ;53;8;1.7;8;4;40;40;1;3;4;No ;No ;Books
+Sophia ;53;10;2.6;3;10;28;43;8;3;11;No ;Yes;Games
+Jane   ;53;12;4.4;9;17;37;35;2;4;13;No ;No ;Games
+James  ;53;29;3.8;6;1;31;35;1;0;18;No ;Yes;Games
+Olivia ;53;1;4.7;6;0;45;77;8;1;16;Yes;Yes;Games
+William;54;30;3.7;8;7;46;55;8;2;0;No ;No ;Books
+Jane   ;54;26;4;5;13;47;76;2;4;1;No ;No ;Games
+Michael;54;4;3.6;5;4;41;94;10;1;4;Yes;Yes;Games
+Emma   ;54;15;1.9;9;6;30;71;6;0;1;No ;No ;Books
+John   ;54;5;3.4;1;8;27;71;9;3;4;Yes;Yes;Games
+John   ;54;24;2.9;0;17;37;86;10;1;3;Yes;No ;Books
+James  ;54;25;1.7;2;16;6;68;7;3;14;No ;Yes;Games
+Emma   ;54;15;2.2;2;13;5;60;1;0;17;No ;No ;Games
+John   ;54;0;1.5;1;6;3;81;3;4;12;No ;No ;Books
+Olivia ;54;7;3.7;2;11;40;54;3;2;18;Yes;No ;Games
+Michael;54;2;3.4;6;0;23;21;8;1;7;No ;No ;Games
+James  ;54;29;4.6;10;20;35;82;3;5;0;Yes;Yes;Books
+Jane   ;54;15;4.4;6;6;19;7;1;5;16;No ;No ;Books
+William;54;16;4.7;8;4;50;6;10;4;2;No ;No ;Games
+Sophia ;54;20;3.2;10;16;14;7;2;1;19;No ;Yes;Games
+William;54;27;4.4;2;10;27;35;4;3;11;No ;No ;Games
+James  ;54;16;1;1;15;32;57;0;2;0;Yes;No ;Books
+Olivia ;54;26;3;7;3;50;11;2;4;15;No ;Yes;Books
+John   ;55;18;1.9;9;5;45;97;3;5;13;No ;Yes;Games
+Emma   ;55;12;1.1;9;0;24;44;6;1;20;Yes;No ;Games
+Michael;55;23;1.6;6;10;32;39;0;1;4;No ;Yes;Books
+James  ;55;26;2.7;10;15;14;85;10;2;9;Yes;Yes;Books
+James  ;55;19;2.7;0;6;10;94;4;0;20;Yes;No ;Games
+Olivia ;55;11;4.5;2;9;11;12;9;4;3;Yes;No ;Games
+Emma   ;55;26;2.9;7;13;18;66;7;3;2;Yes;No ;Books
+Michael;55;26;4.3;1;10;8;56;0;3;6;No ;No ;Books
+James  ;55;10;2.7;5;1;40;34;3;0;0;No ;Yes;Games
+Emma   ;55;27;3.8;7;1;41;79;6;3;11;No ;No ;Games
+Emma   ;55;24;2.3;0;6;43;52;0;3;16;No ;No ;Games
+James  ;55;10;4;8;1;40;96;6;4;5;No ;No ;Books
+James  ;55;7;3.3;4;14;17;67;2;2;2;No ;No ;Books
+Michael;55;14;1.2;4;13;38;20;10;1;16;No ;No ;Games
+Michael;55;28;1.5;3;5;4;42;0;3;8;No ;No ;Games
+William;55;18;2.3;10;10;1;34;10;4;9;No ;No ;Books
+John   ;55;23;1.6;4;12;21;3;6;5;20;No ;No ;Games
+Michael;55;21;2;0;10;25;40;5;4;15;No ;Yes;Books
+Sophia ;55;17;1.4;2;14;38;30;0;2;19;Yes;No ;Games
+Sophia ;55;7;1.8;9;10;27;4;7;2;17;No ;No ;Books
+William;55;12;3.6;10;1;22;16;5;4;17;No ;Yes;Books
+Olivia ;55;7;3.7;1;8;49;19;1;2;18;No ;No ;Games
+William;56;1;3.6;8;19;40;99;4;3;4;Yes;Yes;Games
+John   ;56;2;3.8;5;7;11;66;1;4;0;No ;No ;Books
+William;56;26;4.6;10;19;8;54;8;3;20;No ;No ;Books
+Emma   ;56;11;3.4;9;5;6;90;8;1;19;No ;No ;Games
+Michael;56;10;4;2;0;13;30;4;1;0;Yes;Yes;Books
+Sophia ;56;3;3.3;8;17;4;74;6;2;19;Yes;No ;Books
+William;56;0;2.3;8;7;15;59;4;3;16;Yes;No ;Books
+Sophia ;56;12;3;1;2;45;86;5;3;18;Yes;Yes;Books
+Olivia ;56;15;2.8;10;2;30;49;8;1;2;Yes;No ;Games
+Olivia ;56;25;3;4;18;45;12;7;2;5;No ;Yes;Games
+Jane   ;56;6;2.1;3;19;28;40;4;2;1;No ;Yes;Books
+Michael;57;10;3.2;0;3;4;56;4;2;13;Yes;No ;Books
+William;57;18;3.4;2;4;20;31;9;0;2;No ;Yes;Books
+Jane   ;57;18;2.8;10;15;14;46;5;3;19;Yes;Yes;Games
+Emma   ;57;0;3.1;2;1;38;14;0;1;1;No ;Yes;Books
+Emma   ;57;27;3.7;10;0;28;38;3;5;13;No ;Yes;Games
+Emma   ;57;19;1.5;4;2;34;85;2;0;6;No ;No ;Books
+John   ;57;8;4.2;2;0;16;73;6;3;13;No ;No ;Books
+Jane   ;57;8;1.7;9;9;1;51;5;5;17;Yes;Yes;Games
+James  ;57;23;3.2;6;19;6;7;9;4;19;Yes;No ;Books
+William;57;21;4.9;9;16;27;69;10;1;14;No ;Yes;Books
+Michael;57;3;4.7;10;11;40;74;7;1;9;Yes;Yes;Games
+Jane   ;57;5;4.6;2;9;9;3;10;4;9;Yes;No ;Books
+John   ;57;13;3.5;10;18;6;45;5;0;8;Yes;Yes;Games
+Emma   ;57;20;3.4;5;19;11;37;3;0;4;Yes;No ;Books
+Emma   ;57;0;1.3;1;19;24;80;2;3;5;No ;Yes;Books
+James  ;57;9;3.8;3;11;12;89;4;1;19;No ;Yes;Books
+Emma   ;57;14;3.9;5;3;6;55;6;5;14;No ;No ;Games
+Michael;57;11;1.6;0;13;6;48;6;1;14;No ;No ;Games
+Jane   ;57;18;3.4;4;12;44;70;8;2;9;Yes;Yes;Games
+James  ;57;0;4.8;7;19;38;4;10;4;17;Yes;Yes;Books
+Emma   ;57;8;4.2;7;4;14;4;1;4;16;No ;No ;Games
+Sophia ;57;10;1.6;3;4;9;66;7;4;19;No ;No ;Books
+Michael;57;1;1.1;0;18;39;60;8;0;19;No ;No ;Games
+Emma   ;57;8;3.3;5;17;15;86;3;1;9;No ;No ;Books
+James  ;58;3;1.6;1;3;42;92;0;0;2;No ;Yes;Books
+Sophia ;58;29;1.3;6;6;29;78;2;1;3;Yes;Yes;Games
+Sophia ;58;18;2.7;6;7;5;84;0;1;15;No ;Yes;Games
+William;58;30;2.3;8;11;8;1;4;0;18;No ;No ;Books
+William;58;1;2.3;5;18;47;5;8;0;4;Yes;No ;Games
+Michael;58;16;4.3;3;14;7;94;4;2;14;Yes;Yes;Games
+Michael;58;24;1.7;1;17;18;3;6;3;6;Yes;Yes;Games
+Michael;58;16;4.8;9;4;32;4;3;5;7;No ;Yes;Books
+Emma   ;58;8;4.9;9;17;25;31;10;4;13;Yes;No ;Games
+Sophia ;58;29;2.6;7;0;45;77;0;4;5;No ;No ;Games
+Olivia ;58;3;3.7;10;9;12;77;6;2;20;Yes;No ;Games
+Michael;58;28;1.8;0;8;21;65;1;1;16;Yes;Yes;Books
+Emma   ;58;27;5;1;2;44;7;5;0;17;Yes;No ;Books
+Emma   ;58;12;3.9;10;4;19;15;5;3;20;No ;No ;Games
+Sophia ;58;9;3.6;5;17;49;80;4;2;1;No ;Yes;Games
+Michael;58;6;2.9;5;15;13;91;7;1;0;No ;Yes;Books
+Sophia ;58;24;3;10;7;37;59;5;4;10;No ;No ;Books
+Jane   ;58;6;2.2;10;19;40;60;9;0;15;No ;No ;Books
+Michael;58;8;4.4;9;15;23;77;3;5;6;Yes;No ;Games
+Jane   ;58;12;2.8;0;20;34;13;6;5;15;No ;No ;Books
+James  ;58;2;3.8;7;18;27;8;6;1;16;Yes;No ;Games
+Emma   ;58;23;3.5;4;10;16;62;2;5;10;No ;Yes;Games
+Sophia ;59;21;2.2;2;12;14;35;1;5;17;No ;No ;Books
+John   ;59;17;3.4;4;16;23;32;9;0;8;No ;Yes;Games
+Michael;59;28;2.5;4;15;49;57;1;1;4;Yes;Yes;Books
+Sophia ;59;3;3.3;4;7;40;47;5;5;18;Yes;No ;Games
+Emma   ;59;7;4.3;3;15;20;38;2;5;2;Yes;Yes;Books
+Sophia ;59;15;1.4;9;1;1;25;0;5;19;No ;No ;Games
+James  ;59;14;4.5;3;14;18;67;6;4;15;Yes;No ;Games
+Emma   ;59;16;4.5;8;0;34;91;5;4;15;No ;Yes;Games
+John   ;59;11;3.5;5;16;20;57;6;2;19;No ;No ;Books
+James  ;59;8;4.7;1;5;0;18;10;3;19;Yes;Yes;Games
+Olivia ;59;12;4.1;5;18;33;56;6;1;16;Yes;Yes;Games
+James  ;59;10;4.2;10;16;38;15;10;2;18;No ;No ;Books
+James  ;59;0;1.7;10;8;20;55;6;4;12;Yes;No ;Books
+Sophia ;59;14;2.5;9;13;22;85;2;0;10;Yes;No ;Games
+William;59;6;3.5;10;2;30;41;4;0;7;No ;No ;Games
+Emma   ;59;17;3;5;13;11;51;6;3;13;No ;Yes;Books
+Olivia ;59;7;4.6;3;7;0;45;7;1;4;No ;No ;Books
+Sophia ;59;8;1.6;1;7;6;14;6;1;1;No ;No ;Games
+Jane   ;59;20;1.5;2;9;46;82;8;5;0;No ;Yes;Books
+Michael;59;14;4.3;10;13;2;77;7;3;19;No ;Yes;Games
+Michael;59;16;4.4;1;19;31;37;8;0;4;No ;Yes;Books
+Olivia ;59;12;3.4;5;0;35;45;10;5;4;Yes;Yes;Books
+James  ;59;24;4.8;8;1;22;10;1;0;8;No ;No ;Games
+William;59;8;2.1;10;17;41;34;9;1;7;Yes;Yes;Games
+Emma   ;59;18;1.6;1;0;49;37;2;4;14;No ;Yes;Games
+Jane   ;59;25;2.8;2;5;6;61;1;5;18;No ;No ;Games
+Michael;59;13;3.5;4;20;45;97;0;5;4;No ;No ;Books
+John   ;59;26;4.3;6;7;29;98;6;4;3;Yes;No ;Books
+Emma   ;59;15;2.7;0;1;11;20;6;4;5;Yes;Yes;Books
+Michael;59;10;1.6;1;4;19;11;1;3;7;Yes;Yes;Books
+John   ;59;7;2.8;7;3;10;79;7;3;20;Yes;No ;Books
+Olivia ;59;12;2.1;1;8;25;7;0;2;0;Yes;No ;Books
+Jane   ;59;23;2.8;3;14;24;32;5;0;3;Yes;Yes;Books
+Michael;60;4;2.3;9;12;17;50;9;3;19;No ;Yes;Games
+Jane   ;60;27;3.1;0;8;5;48;9;0;19;Yes;Yes;Books
+Jane   ;60;7;4.6;6;16;1;95;9;3;12;No ;No ;Games
+Emma   ;60;22;1.7;1;8;16;4;8;0;0;Yes;No ;Games
+James  ;60;2;3.8;1;16;16;40;5;5;10;No ;No ;Games
+William;60;3;2.1;7;11;17;51;2;4;12;Yes;No ;Games
+Jane   ;60;18;4.5;4;4;0;30;2;4;19;No ;No ;Books
+Emma   ;60;19;1.1;1;16;38;23;0;3;0;No ;Yes;Books
+William;60;21;2;5;20;16;9;2;0;11;Yes;No ;Books
+Emma   ;60;20;3.5;1;17;36;93;9;2;1;No ;Yes;Games
+Olivia ;60;26;4.3;6;16;44;30;3;5;0;Yes;No ;Games
+John   ;60;26;1.1;2;10;22;84;7;0;12;No ;Yes;Games
+Michael;60;14;1.5;0;14;29;73;7;4;5;No ;Yes;Books
+Emma   ;60;13;1.2;3;4;1;0;10;3;2;No ;Yes;Games
+John   ;60;20;3.6;6;5;1;7;6;5;15;Yes;Yes;Games
+Emma   ;60;18;1.7;6;16;24;49;1;5;4;Yes;Yes;Games
